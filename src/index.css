@@ -13,13 +13,15 @@
   max-width: 1440px;
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
+  backGround: rgb(249, 242, 242);
+  
  
 }
 .navbar h1 {
-  color: #f1356d;
-  padding-bottom: 5px;
+  color: rgb(30,144,255);
+  padding-bottom: 25px;
   margin-left: 220px;
-  
+  font-size: 60px;
 }
 .navbar .links {
   margin-left: auto;
@@ -32,7 +34,7 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color:rgb(30,144,255);
 }
 .content {
   max-width: 992px;
@@ -54,6 +56,6 @@
 
 .blog-preview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: rgb(30,144,255);
   margin-bottom: 8px;
 }

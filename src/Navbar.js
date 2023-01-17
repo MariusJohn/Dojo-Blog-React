@@ -1,4 +1,7 @@
+
+
 const Navbar = () => {
+  
     return (
         <nav className="navbar">
             <h1>My Primary Tutor</h1>
@@ -8,6 +11,7 @@ const Navbar = () => {
                 <a href="/create2">New Blog</a>
                 <a href="/create3">More</a>
             </div>
+            
         </nav>
         
     );
